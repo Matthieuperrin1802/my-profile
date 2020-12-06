@@ -37,8 +37,6 @@ a:hover {
 	color:black;
 }
 
-/* Custom design with Class */ 
-
 .container {
 	width:  700px;
 	margin : 40px auto;
@@ -103,6 +101,7 @@ border-radius: 50%
 .list-inline i:hover {
 	color:black; 
 }
+
 
 #introduction p { 
  	margin-bottom: 40px; 
